@@ -1,12 +1,12 @@
 {
-  "version": "0.7.0",
+  "version": "0.7.1",
   "description": "Drop-in scp replacement in Zig: resumable, parallel, pipelined SFTP transfers",
   "homepage": "https://deblasis.github.io/zioscp-web/",
   "license": "MIT OR Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/deblasis/zioscp/releases/download/v0.7.0/zioscp-v0.7.0-x86_64-windows-gnu.zip",
-      "hash": "1bcca57878fb82951aac73b04a0b929f238cd6a1337f2bed7c9132713aec89af"
+      "url": "https://github.com/deblasis/zioscp/releases/download/v0.7.1/zioscp-v0.7.1-x86_64-windows-gnu.zip",
+      "hash": "1148d1e727a74df6c071b9938a9e4863932a0c087d0c51b7f857063527b7a531"
     }
   },
   "bin": "zioscp.exe",
