@@ -14,10 +14,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://github.com/deblasis/zioscp/releases/download/v$version/zioscp-v$version-x86_64-windows-gnu.zip",
-        "hash": {
-          "url": "$baseurl/zioscp-v$version-x86_64-windows-gnu.zip.sha256"
-        }
+        "url": "https://github.com/deblasis/zioscp/releases/download/v$version/zioscp-v$version-x86_64-windows-gnu.zip"
       }
     }
   }
